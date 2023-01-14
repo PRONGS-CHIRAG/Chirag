@@ -1,1 +1,1 @@
-# Chirag
+[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRONGS-CHIRAG)](https://github.com/anuraghazra/github-readme-stats)
